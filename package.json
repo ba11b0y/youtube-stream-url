@@ -1,6 +1,6 @@
 {
   "name": "yt-url-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets stream url from youtube link. An updated fork of https://github.com/dangdungcntt/youtube-stream-url",
   "main": "src/index.js",
   "scripts": {

@@ -1,26 +1,26 @@
 {
-  "name": "youtube-stream-url",
-  "version": "2.0.2",
-  "description": "Get stream url from youtube link",
+  "name": "yt-url-parser",
+  "version": "1.0.0",
+  "description": "Gets stream url from youtube link. An updated fork of https://github.com/dangdungcntt/youtube-stream-url",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dangdungcntt/youtube-stream-url.git"
+    "url": "git+https://github.com/ba11b0y/yt-url-parser"
   },
   "keywords": [
     "youtube",
     "stream",
     "url"
   ],
-  "author": "DangDung <dangdungcntt@gmail.com> (dangdungcntt.wordpress.com)",
+  "author": "Rahul Tiwari <jprrahultiwari@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dangdungcntt/youtube-stream-url/issues"
+    "url": "https://github.com/ba11b0y/yt-url-parser/issues"
   },
-  "homepage": "https://github.com/dangdungcntt/youtube-stream-url#readme",
+  "homepage": "https://github.com/ba11b0y/yt-url-parser/blob/master/README.md",
   "dependencies": {
     "axios": "^0.21.1"
   }
